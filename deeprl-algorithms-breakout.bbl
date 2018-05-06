@@ -1,0 +1,103 @@
+\begin{thebibliography}{10}
+
+\bibitem{LayerNorm}
+Jimmy~Lei Ba, Jamie~Ryan Kiros, and Geoffrey Hinton.
+\newblock Layer normalization.
+\newblock 2016.
+
+\bibitem{DBLP:journals/corr/abs-1207-4708}
+Marc~G. Bellemare, Yavar Naddaf, Joel Veness, and Michael Bowling.
+\newblock The arcade learning environment: An evaluation platform for general
+  agents.
+\newblock {\em CoRR}, abs/1207.4708, 2012.
+
+\bibitem{capstone-proposal}
+Andr\'e Carvalho.
+\newblock Proposal - learning to play video games with machine learning.
+\newblock
+  \url{https://github.com/andretadeu/capstone-proposal/blob/master/capstone_proposal.md},
+  2017.
+\newblock Last access in 14 January 2018.
+
+\bibitem{rmsprop-coursera}
+Coursera, Geoffrey Hinton, Nitish Srivastava, and Kevin Swersky.
+\newblock Neural networks for machine learning | coursera.
+\newblock \url{https://www.coursera.org/learn/neural-networks}, 2018.
+\newblock Last access in 10 March 2018.
+
+\bibitem{DBLP:conf/amcc/DegrisPS12}
+Thomas Degris, Patrick~M. Pilarski, and Richard~S. Sutton.
+\newblock Model-free reinforcement learning with continuous action in practice.
+\newblock In {\em American Control Conference, {ACC} 2012, Montreal, QC,
+  Canada, June 27-29, 2012}, pages 2177--2182. {IEEE}, 2012.
+
+\bibitem{baselines}
+Prafulla Dhariwal, Christopher Hesse, Oleg Klimov, Alex Nichol, Matthias
+  Plappert, Alec Radford, John Schulman, Szymon Sidor, and Yuhuai Wu.
+\newblock Openai baselines.
+\newblock \url{https://github.com/openai/baselines}, 2017.
+
+\bibitem{intuitive_a2c}
+Rudy Gilman.
+\newblock Intuitive rl: Intro to advantage-actor-critic (a2c).
+\newblock
+  \url{https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752},
+  2018.
+\newblock Last access in 31 March 2018.
+
+\bibitem{DBLP:journals/corr/MnihBMGLHSK16}
+Volodymyr Mnih, Adri{\`{a}}~Puigdom{\`{e}}nech Badia, Mehdi Mirza, Alex Graves,
+  Timothy~P. Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu.
+\newblock Asynchronous methods for deep reinforcement learning.
+\newblock {\em CoRR}, abs/1602.01783, 2016.
+
+\bibitem{mnih2015humanlevel}
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei~A. Rusu, Joel Veness,
+  Marc~G. Bellemare, Alex Graves, Martin Riedmiller, Andreas~K. Fidjeland,
+  Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis
+  Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, and
+  Demis Hassabis.
+\newblock Human-level control through deep reinforcement learning.
+\newblock {\em Nature}, 518(7540):529--533, February 2015.
+
+\bibitem{openai-gym}
+OpenAI.
+\newblock Gym.
+\newblock \url{https://github.com/openai/gym}, 2018.
+
+\bibitem{DBLP:journals/corr/PlappertHDSCCAA17}
+Matthias Plappert, Rein Houthooft, Prafulla Dhariwal, Szymon Sidor, Richard~Y.
+  Chen, Xi~Chen, Tamim Asfour, Pieter Abbeel, and Marcin Andrychowicz.
+\newblock Parameter space noise for exploration.
+\newblock {\em CoRR}, abs/1706.01905, 2017.
+
+\bibitem{DBLP:journals/corr/SchaulQAS15}
+Tom Schaul, John Quan, Ioannis Antonoglou, and David Silver.
+\newblock Prioritized experience replay.
+\newblock {\em CoRR}, abs/1511.05952, 2015.
+
+\bibitem{DBLP:journals/corr/HasseltGS15}
+Hado van Hasselt, Arthur Guez, and David Silver.
+\newblock Deep reinforcement learning with double q-learning.
+\newblock {\em CoRR}, abs/1509.06461, 2015.
+
+\bibitem{DBLP:journals/corr/WangFL15}
+Ziyu Wang, Nando de~Freitas, and Marc Lanctot.
+\newblock Dueling network architectures for deep reinforcement learning.
+\newblock {\em CoRR}, abs/1511.06581, 2015.
+
+\bibitem{huber_loss}
+Wikipedia.
+\newblock Huber loss.
+\newblock \url{https://en.wikipedia.org/wiki/Huber_loss}, 2018.
+\newblock Last access in 14 January 2018.
+
+\bibitem{rmsprop}
+Wikipedia.
+\newblock Stochastic gradient descent.
+\newblock
+  \url{https://en.wikipedia.org/wiki/Stochastic_gradient_descent#RMSProp},
+  2018.
+\newblock Last access in 10 March 2018.
+
+\end{thebibliography}

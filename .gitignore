@@ -1,0 +1,6 @@
+baselines/
+capstone-proposal/
+log-analysis/.Rproj.user/
+log-analysis/.RData
+log-analysis/.Rhistory
+*.tar.gz
